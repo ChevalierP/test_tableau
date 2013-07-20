@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1374335566 source:c:\users\chevalierp\desktop\programmation\tableaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+
+1374335566 c:\users\chevalierp\desktop\programmation\tableaux\fonctions.h
+
